@@ -1,10 +1,9 @@
 ---
 name: portfolio-transformation-framework
-description: Systematically evaluate and transform a product/service portfolio toward
-  healthier, more sustainable offerings without abandoning heritage brands.
+description: Systematically evaluate and transform a product/service portfolio toward healthier, more sustainable offerings without abandoning heritage brands.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - portfolio-transformation-framework
